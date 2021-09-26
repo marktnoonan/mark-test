@@ -2,5 +2,5 @@
   "pluginsFile": "tests/e2e/plugins/index.js",
   "componentFolder": "src/components",
   "testFiles": "**/*.spec.js",
-  "rootUrl":"http://localhost:8080/ "
+  "baseUrl":"http://localhost:8080/"
 }
